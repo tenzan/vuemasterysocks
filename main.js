@@ -1,8 +1,9 @@
 var app = new Vue({
-    el: '#app',
+    el: "#app",
     data: {
         product: "Socks",
-        image: './assets/vmSocks-green-onWhite.jpg',
+        image: "./assets/vmSocks-green-white.jpg",
         inventory: 9
     }
-})
+}
+)
