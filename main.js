@@ -3,7 +3,6 @@ var app = new Vue({
     data: {
         product: "Socks",
         image: "./assets/vmSocks-green-white.jpg",
-        inventory: 9
+        inventory: 12
     }
-}
-)
+})
